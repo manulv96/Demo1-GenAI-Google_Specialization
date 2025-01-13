@@ -1,0 +1,11 @@
+PROJECT_ID = 'demoespecialidadgcp'
+LOCATION_ID = 'us-central1'
+# Bigquery:
+BQ_DATASET = 'demo_1_genai_flipkart'
+BQ_TABLE = 'flipkart_com-ecommerce_sample'
+BQ_LOCATION = 'US'
+# Datastore:
+ENGINE_ID = 'buscador-productos_1734118302251'
+DATASTORE_LOCATION = 'global'
+# Gemini model
+MODEL = 'gemini-1.0-pro-001'
